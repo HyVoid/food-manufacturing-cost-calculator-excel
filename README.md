@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Food Manufacturing Cost & Unit Economics Excel Template
+<img width="2880" height="1228" alt="image" src="https://github.com/user-attachments/assets/e7850dba-7582-448d-9dbd-eeabcbf362e6" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
