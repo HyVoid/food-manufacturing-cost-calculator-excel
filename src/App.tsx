@@ -81,7 +81,7 @@ export default function App() {
     const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(state, null, 2));
     const downloadAnchor = document.createElement("a");
     downloadAnchor.setAttribute("href", dataStr);
-    downloadAnchor.setAttribute("download", `Food_MFG_Cost_Econ_Backup_${selectedPeriod || "All"}.json`);
+    downloadAnchor.setAttribute("download", `Theseus_Workshop_food_manufacturing_cost_calculator_${selectedPeriod || "All"}.json`);
     document.body.appendChild(downloadAnchor);
     downloadAnchor.click();
     downloadAnchor.remove();
@@ -146,16 +146,22 @@ export default function App() {
         <div className="max-w-[1400px] mx-auto h-full px-10 flex items-center justify-between">
           
           {/* Brand Logo & title */}
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-serif-title font-bold text-base shadow-sm">
-              F
+          <div className="flex items-center gap-2.5">
+            <div className="w-8 h-8 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-serif-title font-bold text-sm shadow-sm tracking-tight">
+              TW
             </div>
-            <div>
-              <span className="font-serif-title text-[#051C2C] font-semibold text-sm tracking-tight block">
-                Food Manufacturing Cost &amp; Unit Economics Toolkit
-              </span>
-              <span className="text-[10px] text-neutral-400 font-semibold tracking-wider uppercase block -mt-0.5">
-                Financial Toolkit
+            <div className="flex flex-col">
+              <div className="flex items-center gap-2">
+                <span className="font-serif-title text-[#051C2C] font-semibold text-sm tracking-tight leading-none">
+                  Theseus Workshop
+                </span>
+                <span className="hidden sm:inline-block text-neutral-300 text-xs">/</span>
+                <span className="text-[11px] text-neutral-500 font-mono font-medium tracking-tight hidden sm:inline-block leading-none">
+                  food-manufacturing-cost-calculator-excel
+                </span>
+              </div>
+              <span className="text-[10px] text-neutral-400 font-mono sm:hidden mt-0.5 leading-none">
+                food-manufacturing-cost-calculator-excel
               </span>
             </div>
           </div>
@@ -332,6 +338,11 @@ export default function App() {
 
           </div>
 
+        </div>
+
+        {/* Required privacy/storage notice */}
+        <div className="max-w-[1400px] mx-auto mt-3 pt-2.5 border-t border-[#E8E8E6]/60 text-center text-[11px] text-neutral-400">
+          All data in this tool is stored in your browser&apos;s localStorage. The page itself does not retain any user data.
         </div>
       </footer>
 
