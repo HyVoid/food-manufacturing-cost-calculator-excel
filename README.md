@@ -1,110 +1,148 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Food Manufacturing Cost & Unit Economics Excel Template
+
+# Food Manufacturing Cost Calculator & Recipe Costing Excel Template (COGS, Overhead & SKU Unit Economics Spreadsheet)
 <img width="2880" height="1228" alt="image" src="https://github.com/user-attachments/assets/e7850dba-7582-448d-9dbd-eeabcbf362e6" />
 
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange)
+![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-success)
+![Category](https://img.shields.io/badge/Category-Food%20%26%20Beverage%20Cost%20Accounting-orange)
 
-> **Food Manufacturing Cost Calculator & Unit Economics Excel Template**: Calculate the true COGS (Cost of Goods Sold), allocate factory overhead, analyze batch yield losses, and determine precise SKU profitability without complex ERP software. A ready-to-use spreadsheet solution for food and beverage (F&B) and CPG businesses.
+**Food Manufacturing Cost Calculator & Unit Economics Excel Template** is a ready-to-use **food production costing spreadsheet**, **recipe costing calculator**, and **CPG profit margin tracker** built for small food businesses, commercial bakeries, craft breweries, co-packers, and food startups. Calculate true **Cost of Goods Sold (COGS)** per unit, allocate **factory overhead and direct labor**, track **batch yield loss and packaging waste**, and set profitable **wholesale and retail prices** in 60 seconds without accounting training or expensive ERP software.
 
-**No signup. No installation. Free in your browser.**
+Run a quick single-session COGS check directly in your web browser with zero registration or software installation. To save your factory data locally, automate monthly financial reporting, and reuse the pre-built formulas across unlimited production runs, download the full Microsoft Excel workbook backed by a 30-day money-back guarantee.
 
-Try the browser version for quick COGS estimates. If you need to save your factory data securely for monthly reporting, you can download the full Excel workbook with a 30-day, no-questions-asked money-back guarantee.
-
-> 🌐 **Test the Calculator** → [Try the Free Food Manufacturing Cost Web Demo](https://hyvoid.github.io/food-manufacturing-cost-calculator-excel/)
+> 🌐 **Run a Free Browser Margin Check** → [Launch the Interactive Food Manufacturing Cost & COGS Web Calculator (Free Online Demo)](https://hyvoid.github.io/food-manufacturing-cost-calculator-excel/)
 >
-> 📥 **Get the Spreadsheet** → [Download the Full Unit Economics Excel Template (30-Day Guarantee)](https://www.theseusworkshop.com/l/wtcwzb?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=food-manufacturing-unit-economics)
+> 📥 **Get the Reusable Local Workbook** → [Download the Automated Food Production Costing & Unit Economics Excel Template (30-Day Guarantee)](https://www.theseusworkshop.com/l/wtcwzb?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=food-manufacturing-unit-economics)
 
-Use whichever format fits your production workflow. The browser version is ideal for a single-session margin check, while the Excel version provides a fully transparent, formula-based financial model suitable for continuous FP&A (Financial Planning & Analysis) and daily operations.
-
----
-
-## What This Food Production Costing Tool Solves (Pain Points vs. Solutions)
-
-- **Pain Point:** Guessing product margins based only on recipe ingredients.
-  **Solution:** Calculates **True SKU Manufacturing Cost** by integrating standard BOM (Bill of Materials) estimates with actual production floor realities.
-- **Pain Point:** Unexplained margin erosion at the end of the financial period.
-  **Solution:** Maps exactly how **direct labor utilization, factory utilities, equipment depreciation, and manufacturing overhead (MOH)** impact your bottom line.
-- **Pain Point:** Blindly pricing wholesale or retail products.
-  **Solution:** Reveals which CPG products actually meet your **Target Gross Margin** after all indirect manufacturing costs are properly absorbed.
-- **Pain Point:** Unpredictable break-even points when scaling production.
-  **Solution:** Models how production volume fluctuations influence **Unit Economics and Break-Even Analysis**.
-- **Pain Point:** Inability to pinpoint the root cause of cost spikes.
-  **Solution:** Isolates variances so you know instantly if cost increases stem from **raw material inflation, packaging waste/yield loss, overtime labor, or idle factory time**.
+Choose the format that fits your current production stage. The free web calculator gives you an instant single-session margin check in your browser, while the downloadable Excel spreadsheet provides a permanent, plug-and-play financial model where every cost allocation rule and formula updates automatically the moment you paste your numbers.
 
 ---
 
-## Quick Start Workflow: How to Calculate Manufacturing Costs
+## Food Production Costing Pain Points vs. Automated Excel Solutions
 
-### Step 1: Configure Factory Operating Assumptions (Parameters)
-Begin by entering the global parameters that define your production facility. Set up your electricity rates, water costs, equipment depreciation schedules, target gross margin thresholds, and preferred overhead allocation methodology. These are stored on the **Assumptions** sheet for easy scenario planning.
-
-### Step 2: Import Production Data & BOM Recipes (Inputs)
-Paste your actual production batch records, SKU master data, BOM ingredient recipes, material procurement prices, packaging costs, payroll summaries, and monthly operating expenses (OpEx). You can paste existing data exports straight from QuickBooks, Xero, or your warehouse management system directly into this costing template.
-
-### Step 3: Run the Cost Allocation Engine (Analysis)
-Navigate to the Executive Dashboard, Unit Cost Analysis, or Margin Spending Map. The built-in dynamic arrays automatically allocate pooled factory resources to individual SKUs, giving operations teams immediate visibility into true COGS and SKU-level profitability.
-
-### Step 4: Refresh Monthly Financials (Maintenance)
-At the close of a new accounting period, replace the old operational data with the latest month's production numbers. The dashboard updates automatically, providing a rolling view of your factory's financial health.
-
-### Step 5: Scale from Free Trial to Permanent Excel Workflow (Action)
-> **Ready to standardize your monthly reporting?** After testing your numbers in the single-session browser tool, [Download the Excel Workbook Version](https://www.theseusworkshop.com/l/wtcwzb?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=food-manufacturing-cost-calculator) to securely save your historical factory data, customize the allocation formulas, and permanently integrate this toolkit into your company’s monthly financial close process.
+| Common Food Business Pain Point & Search Need | Hidden Financial Drain on Your Factory Floor | How This Food Costing Excel Template Solves It Automatically |
+| :--- | :--- | :--- |
+| **Guessing product margins from recipe ingredients alone** (*Recipe Costing vs. True COGS*) | Pricing a product using only flour, sugar, or raw ingredient costs ignores the 25% to 45% of expenses spent on kitchen labor, utilities, and rent. | Merges your **Bill of Materials (BOM) recipe costs** with actual production floor expenses to calculate **True Fully-Loaded Unit Cost**. |
+| **Bank account balance drops despite strong monthly sales** (*Unexplained Gross Margin Erosion*) | Shared monthly bills like industrial electricity, walk-in cooler power, oven gas, and equipment depreciation quietly eat up gross profit. | Maps **direct kitchen labor, factory utilities, machine depreciation, and manufacturing overhead (MOH)** down to every single bottle, bag, or box. |
+| **Setting wholesale & distributor prices in the dark** (*CPG Wholesale Pricing & Margin Calculator*) | Selling to retailers or distributors (taking a 30% to 50% cut) without knowing your exact floor cost leads to losing money on every case shipped. | Calculates exact **SKU Gross Margin %** and **Net Dollar Contribution** after all indirect factory costs are absorbed, protecting your target profit floor. |
+| **Unpredictable break-even volume when scaling batches** (*Batch Production & Break-Even Analysis*) | Scaling from small test batches to commercial runs changes setup times, labor efficiency, and per-unit fixed overhead absorption. | Models how batch size fluctuations and factory capacity utilization change your **Unit Economics and Monthly Break-Even Point**. |
+| **Unable to tell why production costs spiked last month** (*Raw Material Inflation & Yield Loss Tracker*) | When month-end profit shrinks, owners cannot tell if the culprit was ingredient price hikes, spoiled batches, packaging scrap, or overtime pay. | Separates cost drivers into **Raw Materials, Packaging Waste, Direct Labor, and Factory Overhead** so you spot the exact leak in under a minute. |
 
 ---
 
-## Why I Built This CPG Profitability Tracker
+## 1-Minute Quick Start Tutorial: How to Calculate Food Manufacturing Costs in Excel
 
-Many small to mid-sized food manufacturers (bakeries, breweries, snack brands) track aggregate monthly spending perfectly but still struggle to answer a fundamental business question:
+### Step 1: Enter Your Basic Kitchen or Factory Rates (One-Time Setup)
+Open the **Assumptions** tab and enter your baseline facility numbers: hourly kitchen or line labor rates, monthly electricity and gas bills, equipment depreciation, and your target gross margin percentage. Every allocation rule is pre-configured, so you only fill in plain-English input cells.
 
-> **How much does it actually cost our factory to produce exactly one unit of this specific product?**
+### Step 2: Copy and Paste Your Recipes, Batch Logs & Monthly Expenses
+Paste your SKU list, **BOM ingredient recipes**, raw material purchase prices, pouches/labels/boxes packaging costs, batch production quantities, and monthly operating expenses (**OpEx**). You can copy and paste raw exports straight from **QuickBooks, Xero, Shopify, or basic inventory logs** right into the input tables.
 
-Raw material costs are easy to track because standard BOMs exist. The financial blind spot occurs on the production floor. 
+### Step 3: View Instant SKU Profitability & Overhead Breakdown (Zero Formula Editing)
+Switch to the **Executive Dashboard**, **Unit Cost Analysis**, or **Margin Spending Map**. All complex **Activity-Based Costing (ABC)** math and dynamic array lookups are already built and locked in place. You never even need to double-click a cell corner to drag formulas down: the sheet matches your SKUs and calculates per-unit COGS automatically.
 
-Factory payroll, equipment depreciation, industrial utilities, maintenance, packaging yield losses, and shared manufacturing overhead remain pooled together as monthly accounting totals. Products artificially appear profitable simply because those shared overhead costs have never been absorbed consistently.
+### Step 4: Update Monthly Numbers in 60 Seconds During Peak Season
+At the end of each month, paste your newest batch output and utility bills over last month's rows. Every chart, unit cost table, and gross margin alert refreshes immediately without manual spreadsheet rebuilding.
 
-**The Danger of Misallocated Costs:**
-Before using this unit economics framework, management might look at a premium beverage and assume a 48% gross margin based solely on wholesale ingredient costs. After systematically allocating actual production line labor, machine depreciation, factory utilities, and packaging waste, the true gross margin falls to 18%—well below the company's profitability threshold. 
-
-This template exposes those hidden operational drains immediately.
-
-## Common F&B Manufacturing Challenges Solved
-
-| F&B Industry Challenge | Traditional Spreadsheet Limitations | With This Unit Economics Excel Toolkit |
-|------------------------|-------------------------------------|----------------------------------------|
-| **BOM vs. Actual COGS Disconnect** | Pricing models only look at recipe ingredient costs, ignoring labor, utilities, and overhead. | Standard material costs automatically merge with allocated factory operating expenses to yield a true, fully-loaded unit manufacturing cost. |
-| **Unallocated Factory Overhead** | Finance tracks total monthly spending (OpEx), but operations cannot explain which SKUs drain those resources. | Direct labor, manufacturing overhead (MOH), and utilities are systematically allocated to every SKU via configurable cost-absorption drivers. |
-| **Margin Erosion Mystery** | Managers suffer shrinking gross margins but can't isolate if it's due to material inflation, packaging waste, or labor inefficiency. | Cost components (Material, Packaging, Labor, Overhead) are isolated, making the primary cost driver immediately visible to operations. |
-| **Cross-Subsidization Risks** | High-volume core products quietly subsidize low-volume, complex SKUs, leading to flawed production planning. | Shared manufacturing expenses are distributed equitably based on actual resource consumption, fixing pricing distortions. |
-| **Manual Month-End Reporting** | FP&A teams waste days manually consolidating production logs, payroll, and purchasing data into a master sheet. | The executive dashboard auto-updates using dynamic arrays the moment fresh operational data is pasted, streamlining month-end close. |
+### Step 5: Upgrade from Single Browser Test to Your Permanent Local Excel System
+> **Spend peak production season running your business, not debugging broken spreadsheet formulas.**
+> While cost accounting theory is complex, this Excel workbook handles every multi-step allocation rule behind the scenes. Paste your raw data once and get clear pricing and production decisions in 1 minute.
+>
+> 👉 **[Download the Full Food Manufacturing Cost & Unit Economics Excel Workbook Here](https://www.theseusworkshop.com/l/wtcwzb?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=food-manufacturing-cost-calculator)** to save your historical batch data on your computer, reuse the automated templates every month, and make confident margin decisions in 60 seconds.
 
 ---
 
-## Who This Is For: Roles & Use Cases
+## Why I Built This CPG Profitability & Food Costing Spreadsheet
 
-This toolkit is engineered for F&B organizations that require precise manufacturing cost visibility without enduring a six-figure ERP implementation. 
+Most small to mid-sized food producers, commercial bakeries, beverage bottlers, and snack brands know their total monthly bank spend, yet struggle to answer one basic operational question:
 
-It is actively used by:
-- **Food & Beverage Finance Managers** needing a *Manufacturing Cost Allocation Excel Template* to close month-end books accurately.
-- **Operations & Plant Managers** searching for a *Production Efficiency Tracker* to measure factory utilization and justify equipment ROI.
-- **Startup CPG Founders** looking for an *F&B Unit Economics Spreadsheet* to validate margins before pitching to retail buyers or investors.
-- **Cost Accountants** requiring a *SKU Profitability Calculator* to set standardized pricing baselines.
-- **Manufacturing Consultants** deploying a lightweight *Digital Transformation Dashboard* for legacy manufacturing clients.
+> **How much does it cost our facility to produce, package, and ship one single sellable unit of this specific SKU?**
 
-*(Note: This workbook provides a transparent analytical layer bridging operations and finance. It is not a replacement for a Manufacturing Execution System (MES) or foundational accounting software.)*
+Tracking raw ingredients is straightforward because recipes and vendor invoices exist. The real profit leak happens on the production floor.
+
+Production line payroll, mixer and oven depreciation, refrigeration power, sanitation hours, damaged pouches, and batch shrinkage sit pooled together inside a single monthly accounting bucket. High-labor, slow-moving products look profitable on paper only because they are getting a free ride on shared factory overhead.
+
+**Real-World Example of Hidden Margin Drain:**
+A craft beverage maker prices a functional soda assuming a **48% gross margin** based strictly on liquid ingredients, cans, and labels. Once this template allocates actual pasteurization time, canning line labor, chiller electricity, and a 4% damaged-can scrap rate, the **true gross margin drops to 18%**: below the threshold needed to survive distributor slotting fees and wholesale discounts.
+
+This spreadsheet exposes those hidden unit-cost drains before you sign a losing wholesale contract.
 
 ---
 
-## Ideal Use Cases & F&B Industry Scenarios
+## Common F&B Cost Accounting Challenges vs. Automated Excel Model
 
-This toolkit adapts to various food production environments where batch processing and shared resources complicate standard costing:
-- **Craft Breweries & Beverage Bottling:** Calculate how much liquid loss, bottling time, and vat depreciation actually cost per can.
-- **Commercial Bakeries & Confectioneries:** Track how oven utility costs and direct baker labor impact the margin of high-mix, low-volume pastry SKUs.
-- **Snack & Packaged Foods (CPG):** Determine if the premium packaging on your new product line is destroying the baseline gross margin compared to legacy items.
-- **Co-Packing & Contract Manufacturing:** Justify minimum order quantities (MOQs) and pricing tiers to clients by showing exactly how small runs spike per-unit labor and machine setup costs.
+| Food Manufacturing Costing Challenge | Traditional Basic Recipe Spreadsheet Limitation | Automated Unit Economics Excel Workbook Solution |
+| :--- | :--- | :--- |
+| **Recipe BOM vs. Actual Landed COGS Gap** | Basic recipe calculators only add up flour, sugar, and jars, ignoring kettle boil-off, line labor, and facility utilities. | Combines **BOM ingredient costs, packaging scrap rates, direct line labor, and factory utilities** into one fully-loaded unit cost. |
+| **Unallocated Commercial Kitchen & Plant Overhead** | Bookkeepers log total monthly rent, gas, and insurance in QuickBooks, leaving plant managers blind to which SKU consumes those dollars. | Distributes **Manufacturing Overhead (MOH), sanitation labor, and machine depreciation** to individual SKUs using real production drivers. |
+| **Shrinking Gross Margins During Scaling** | Owners see shrinking bank balances after scaling wholesale orders but cannot tell if ingredient waste or overtime pay caused the loss. | Breaks every unit down into **Raw Materials, Packaging, Direct Labor, Utilities, and Fixed Overhead** for instant variance tracking. |
+| **Product Cross-Subsidization Distortion** | Fast, high-volume flagship items silently pay the utility and labor bills for slow, labor-heavy seasonal SKUs. | Assigns shared factory expenses by **actual batch hours, machine run time, or weight**, showing the real profit or loss of every item. |
+| **Days Lost to Manual Month-End Spreadsheets** | Founders and finance managers spend 2 to 3 days every month fixing broken VLOOKUPs and copying formulas across tabs. | Pre-built **dynamic Excel arrays** recalculate the entire SKU portfolio the instant you paste your monthly production batch logs. |
+
+---
+
+## Who This Is For: F&B Roles & Ready-to-Use Template Search Scenarios
+
+This spreadsheet is built for food and beverage operators who need accurate **unit cost visibility** today without spending $50,000+ and six months setting up enterprise ERP software:
+
+- **Small Food Business Owners & Cottage Food Producers** looking for an *Easy Food Costing & Recipe Pricing Excel Template* to move from home kitchens into commercial commissaries without losing money on wholesale accounts.
+- **Startup CPG Founders & Emerging Beverage Brands** needing a *CPG Unit Economics & Wholesale Margin Calculator Spreadsheet* to validate distributor pricing, broker commissions, and investor pitch deck numbers.
+- **Commercial Bakery, Roastery & Kitchen Managers** searching for a *Batch Production Cost & Yield Loss Tracker Excel Sheet* to measure how oven utilities, shrink, and baker hours affect daily pastry or coffee SKU margins.
+- **Food & Beverage Finance Managers & Bookkeepers** needing a *Manufacturing Overhead Allocation Excel Workbook* to bridge QuickBooks or Xero accounting totals with actual plant floor SKU costing during month-end close.
+- **Co-Packers & Contract Food Manufacturers** requiring a *Co-Packing Run-Size & Setup Cost Estimator Template* to calculate minimum order quantities (MOQs), line changeover costs, and profitable tolling fees per unit.
+- **Fractional CFOs & Food Industry Consultants** deploying a *Plug-and-Play SKU Profitability Audit Dashboard* to diagnose margin leaks for F&B clients in under an hour.
+
+*(Note: This Excel workbook acts as an automated analytical layer between your kitchen/production logs and your bookkeeping records. It works alongside QuickBooks, Xero, or Shopify without requiring a complex Manufacturing Execution System.)*
+
+---
+
+## Ideal Use Cases: Small Batch Food Production, Commercial Kitchens & CPG Brands
+
+Whether you produce 500 units a week in a shared commissary kitchen or 50,000 units a month in a dedicated plant, this template adapts to batch food manufacturing environments:
+
+- **Craft Breweries, Kombucha & Beverage Bottling Plants:** Calculate how fermentation shrinkage, canning line speed, cold storage electricity, and tank depreciation affect your true cost per can or bottle.
+- **Commercial Bakeries, Pastry Commissaries & Confectioneries:** Track how long oven bake times, artisanal hand-shaping labor, and dough scrap rates alter the profitability of high-mix bakery SKUs.
+- **Packaged Snacks, Sauces, Spices & Frozen Foods (CPG):** Test whether custom stand-up pouches, cold-chain freezer storage, or small-batch kettles are eroding the margin on your newest retail SKU.
+- **Private Label Co-Packing & Contract Bottling Facilities:** Show clients exact per-unit labor and machine washdown costs on short production runs to justify setup fees and tiered volume pricing.
+
+---
+
+## The Business Logic & Methodology (Plain-English Guide for Non-Accountants)
+
+You do not need an accounting degree to use this spreadsheet. All of the financial logic below runs automatically inside the Excel formulas, so you only paste your raw operational numbers and read the final decision metrics.
+
+### 1. The Hidden Business Blind Spot: Why Counting Only Ingredient Costs Destroys Profit
+Most new food founders calculate product cost by adding up the recipe ingredients and the jar or pouch. If a jar of pasta sauce uses $1.20 in tomatoes, olive oil, and glass, and sells wholesale for $3.00, the owner assumes they make $1.80 (60% gross margin) per jar.
+
+In reality, running the kitchen costs thousands of dollars every month in kitchen rent, gas burners, walk-in cooler electricity, kettle cleaning labor, and spoiled batches. When you leave those bills in a separate monthly lump sum, **two dangerous pricing blind spots happen**:
+- **The "Sell More, Lose More" Trap:** You give a grocery distributor a 25% promotional discount thinking you still have plenty of margin, when your true fully-loaded cost (after utilities, labor, and waste) is actually $2.65 per jar. Every pallet you ship drains cash from your bank account.
+- **The "Cross-Subsidization" Trap (The Free-Rider Problem):** Your fast, simple flagship product (which takes 1 hour to cook 1,000 units) ends up paying the electricity and labor bills for a complicated specialty flavor (which takes 6 hours of hand-prep for only 200 units). Without separating those costs, you accidentally overprice your best-seller and underprice the slow product that is clogging up your kitchen.
+
+### 2. How the Automated Excel Engine Fixes This Behind the Scenes (Activity-Based Costing)
+Accountants call the solution **Activity-Based Costing (ABC)** and **Absorption Costing**. Instead of dividing your monthly rent and electric bill equally across every item like peanut butter, the spreadsheet tracks how much factory time and effort each specific product actually consumes:
+
+1. **Pools Your Monthly Factory Bills:** You paste your monthly labor payroll, utility bills, and factory overhead into the input table.
+2. **Reads Your Batch Production Logs:** The sheet looks at your batch records (how many hours, batches, or pounds each SKU took to make).
+3. **Matches Costs to Products Automatically:** Pre-built dynamic formulas assign the exact share of labor, electricity, equipment wear-and-tear, and packaging waste down to each individual unit.
+
+### 3. Immediate Commercial Decisions You Can Make in 1 Minute
+Once you paste your data, the dashboard translates complex cost accounting into clear action items:
+- **Cut or Fix Money-Losing "Vampire" SKUs:** Spot which products fall below your target gross margin so you can raise their price, simplify their recipe, or discontinue them immediately.
+- **Protect Your Wholesale & Retail Price Floor:** Know your exact break-even cost per unit down to the cent before negotiating with grocery buyers, brokers, or distributors.
+- **Optimize Batch Sizes & Kitchen Schedules:** See how doubling a batch size lowers per-unit setup labor and overhead, giving you hard numbers to plan production runs during busy seasons.
+
+---
+
+## About Theseus Workshop
+
+**Theseus Workshop** builds plug-and-play financial models, unit economics calculators, and automated Excel decision-support tools for founders, operators, and small business owners. We turn complex corporate FP&A and cost accounting frameworks into zero-code spreadsheets that anyone can use in minutes—just copy, paste, and get clear business answers.
+
+- 🛒 **Explore All Business & Financial Excel Templates:** [Visit the Official Theseus Workshop Store on Gumroad (Theseusworkshop.com)](https://www.theseusworkshop.com)
+- 📥 **Get This Food Costing Toolkit:** [Download the Food Manufacturing Cost & Unit Economics Excel Template](https://www.theseusworkshop.com/l/wtcwzb?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=food-manufacturing-unit-economics)
+- 🌐 **Try the Browser Demo First:** [Open the Free Interactive Food Manufacturing Cost Calculator Web App](https://hyvoid.github.io/food-manufacturing-cost-calculator-excel/)
 
 ---
 
@@ -163,31 +201,6 @@ Built exclusively for Microsoft 365, the toolkit leverages Dynamic Arrays to eli
 As you paste thousands of new production records or add new SKUs, the analysis ranges expand automatically—a true zero-maintenance model.
 
 </details>
-
----
-
-## The Business Logic & Methodology
-
-### The Business Problem: The "Cross-Subsidization" Trap
-In traditional food manufacturing and CPG businesses, Cost of Goods Sold (COGS) analysis often starts and stops with the standard Bill of Materials (BOM). Indirect factory expenses—such as facility rent, industrial utilities, equipment depreciation, and shared production labor—are left as a massive, unallocated pool of monthly operating expenses (OpEx). 
-
-This creates a dangerous blind spot known as **cost cross-subsidization**: high-volume, easy-to-produce products quietly absorb the overhead costs generated by low-volume, highly complex SKUs. The result is a distorted pricing strategy where management accidentally underprices resource-intensive products while overpricing highly efficient ones, ultimately destroying the portfolio's true profit margin.
-
-### The Methodology: Practical Activity-Based Costing (ABC)
-This toolkit implements the core principles of **Activity-Based Costing (ABC)** and **Absorption Costing** without the administrative burden of an enterprise ERP system. 
-
-Instead of dividing total monthly overhead equally across all units produced (the traditional peanut-butter costing method that penalizes simple products), this financial model bridges the gap between aggregate accounting data and operational realities using configurable **Cost Drivers**.
-
-### How the Allocation Engine Works
-1. **Cost Pooling:** The model aggregates your monthly operating expenses, production payroll, and facility maintenance costs into distinct financial cost pools (e.g., Direct Labor, Manufacturing Overhead, Utilities).
-2. **Driver Identification:** It utilizes your actual production batch logs to measure how much of the factory's capacity each product consumes. Management can configure the allocation base—such as direct labor hours, machine time, batch weight, or unit volume—depending on what actually drives expenses in your specific facility.
-3. **Dynamic Cost Allocation:** The calculation engine systematically distributes the pooled financial expenses down to the individual SKU level based strictly on their operational resource consumption.
-
-### The Business Outcome
-By linking financial expenses directly to operational production activities, the toolkit delivers precise, fully-loaded **Unit Economics**. This empowers manufacturing leadership to transition from reactive month-end accounting reviews to proactive commercial decision-making:
-* **SKU Rationalization:** Confidently identifying and eliminating (or repricing) "vampire" products that drain factory capacity without contributing adequate margin.
-* **Data-Backed Pricing Strategy:** Setting wholesale and direct-to-consumer (DTC) prices grounded in fully absorbed manufacturing costs, ensuring your target gross margin is protected.
-* **Margin Sensitivity & Capacity Planning:** Understanding exactly how fluctuations in production batch sizes or factory utilization impact your per-unit overhead burden and overall break-even point.
 
 ---
 
